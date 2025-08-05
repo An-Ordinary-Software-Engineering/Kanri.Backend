@@ -12,8 +12,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Kanri.Application\Kanri.Application.csproj" />
-    <ProjectReference Include="..\Shared\Kanri.Communication\Kanri.Communication.csproj" />
-    <ProjectReference Include="..\Shared\Kanri.Exception\Kanri.Exception.csproj" />
+    <ProjectReference Include="..\..\Library\Kanri.Communication\Kanri.Communication.csproj" />
+    <ProjectReference Include="..\..\Library\Kanri.Exception\Kanri.Exception.csproj" />
   </ItemGroup>
 
 </Project>
